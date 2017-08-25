@@ -1,2 +1,2 @@
 # Some-code-about-programming-contest
-Some code about programming contest
+There are some code about programming contest.
