@@ -1,3 +1,7 @@
+\*这里需要一个定理做支撑
+世界上任意六个人中,一定有三个人互相认识,或三个人互相不认识
+这就是著名的六度分隔理论。*\
+
 #include<iostream>
 using namespace std;
 int par[3001],ranks[3001];
