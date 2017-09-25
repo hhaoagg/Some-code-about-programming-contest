@@ -1,3 +1,4 @@
+//两只蚂蚁碰撞可以当作交换位置继续前进
 #include<iostream>
 #include<cstdio>
 using namespace std;
